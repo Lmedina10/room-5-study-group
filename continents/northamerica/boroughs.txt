@@ -1,12 +1,12 @@
-Bronx
-Bronx
+Houston
+Houston
 Brooklyn
 Queens
 Manhattan
 Long Island
 Staten Island
-Bronx
-Bronx
+Houston
+Houston
 Brooklyn
 Brooklyn
 Queens
@@ -15,19 +15,8 @@ Manhattan
 Long Island
 Long Island
 Staten Island
-Bronx
-Bronx
-Brooklyn
-Brooklyn
-Queens
-Manhattan
-Long Island
-Long Island
-Long Island
-Long Island
-Staten Island
-Bronx
-Bronx
+Houston
+Houston
 Brooklyn
 Brooklyn
 Queens
@@ -37,8 +26,19 @@ Long Island
 Long Island
 Long Island
 Staten Island
-Bronx
-Bronx
+Houston
+Houston
+Brooklyn
+Brooklyn
+Queens
+Manhattan
+Long Island
+Long Island
+Long Island
+Long Island
+Staten Island
+Houston
+Houston
 Brooklyn
 Brooklyn
 Queens
@@ -47,7 +47,7 @@ Long Island
 Long Island
 Long Island
 Staten Island
-Bronx
+Houston
 Brooklyn
 Brooklyn
 Queens
